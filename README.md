@@ -197,6 +197,12 @@ npm run dev
 
 ---
 
+## Contributors
+- KushKapoor1234 Kush Kapoor
+- nahmahn Naman Jain
+- ghostiee-11 Aman Kumar
+- Prisha8 Prisha Gulati
+
 ## License
 
 Copyright © 2026 NxtDevs. All Rights Reserved.
