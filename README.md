@@ -197,9 +197,10 @@ npm run dev
 
 ---
 
-## Contributors
-- KushKapoor1234 Kush Kapoor
-- nahmahn Naman Jain
+## Contributors / Co-Founders
+- Kush Kapoor
+- Naman Jain
+- Krish Jha
 
 ---
 
